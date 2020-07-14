@@ -1,0 +1,30 @@
+.background {
+  background-color: #3b5998;
+  width: 440px;
+  }
+
+.color{
+  color: white;
+  }
+
+.button1 {
+  font-size: 20px;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 5px;
+  background-color : #ecf0f1;
+  cursor: pointer;
+}
+
+.margin1 {
+  margin: 10px;
+}
+
+.margin2 {
+  margin: 15px;
+}
+
+.button1:hover{
+  background-color:#ddd;
+}
+
